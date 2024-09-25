@@ -20,3 +20,10 @@ a.about{
     color: #bbaf0c57;
 }
 
+table, tr, th, td, caption {
+    border: 1px solid white;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
